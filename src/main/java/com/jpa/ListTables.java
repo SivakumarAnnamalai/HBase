@@ -1,4 +1,4 @@
-package bigdata.siva;
+package com.jpa;
 
 import org.apache.hadoop.hbase.TableName;
 import org.apache.hadoop.hbase.client.Admin;
@@ -6,7 +6,7 @@ import org.apache.hadoop.hbase.client.Admin;
 import java.io.IOException;
 
 /**
- * Created by sivakumaran on 11/25/2017.
+ * Created by Sivakumar Annamalai on 11/25/2017.
  */
 public class ListTables extends HBaseProjectConstants{
     public static void main(String args[]) throws IOException {

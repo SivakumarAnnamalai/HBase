@@ -1,4 +1,4 @@
-package bigdata.siva;
+package com.jpa;
 
 import org.apache.hadoop.hbase.client.Admin;
 
