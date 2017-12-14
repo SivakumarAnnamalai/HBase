@@ -1,4 +1,4 @@
-package com.jpa;
+package com.siva;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.*;

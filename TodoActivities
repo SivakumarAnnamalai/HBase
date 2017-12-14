@@ -1,0 +1,3 @@
+HBase installation commands
+Queries to explain Timerange,startrow,stoprow,
+Java API- Delete qualifier/family/table, alter table, enable/disable WAL

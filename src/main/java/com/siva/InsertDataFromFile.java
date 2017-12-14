@@ -1,4 +1,4 @@
-package com.jpa;
+package com.siva;
 
 import org.apache.hadoop.hbase.TableName;
 import org.apache.hadoop.hbase.client.Connection;
